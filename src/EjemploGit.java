@@ -6,6 +6,8 @@ public class EjemploGit {
 		System.out.println("Hola");
 		
 		String nombre = "Ismael";
+		
+		System.out.println(nombre);
 
 	}
 
